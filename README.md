@@ -1,4 +1,4 @@
-# p13router0388
+# UII Act2 FlutLab propiedades Container Text
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -20,11 +20,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Rutas de paginas en: FlutLab - Flutter Online IDE
 
-- Link de referencia: https://docs.google.com/document/d/1TjKKgRh48bE7dhklRzBUca5ezobm6BBstzXSHP7DkX4/edit
+- Link de referencia: [https://docs.google.com/document/d/1TjKKgRh48bE7dhklRzBUca5ezobm6BBstzXSHP7DkX4/edit](https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7)
 - Meraz Acosta Edgar Emilio a.21308051280388@cbtis128.edu.mx
 
 ## Imagenes de mi aplicacion
--![image](https://github.com/EdgarM128/RutaPag-Meraz0388/assets/145927073/54ff2c7e-6d5d-4e6c-9243-a4e62040fa61)
--![image](https://github.com/EdgarM128/RutaPag-Meraz0388/assets/145927073/0043abad-9ae0-42d0-9678-ad4b70da05f8)
--![image](https://github.com/EdgarM128/RutaPag-Meraz0388/assets/145927073/dc0f8dd6-35fe-4439-8190-e0aeda3dc6fc)
+![image](https://github.com/EdgarM128/u2_act2_propContText/assets/145927073/579b3cd4-49c4-473d-afdb-cfbc6f7e5ecd)
+
 
